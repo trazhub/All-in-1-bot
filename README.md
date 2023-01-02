@@ -2,7 +2,7 @@
 Discord bot with over 400 commands.
 This contains: Moderation, Music, Economy and much more!
 
-Discord: https://discord.gg/qHXxpQKC2H
+Discord: https://discord.gg/bx96ZkNPWv
 
 | Category | 
 | ------------- | 
